@@ -80,10 +80,10 @@ Budeme podľa potreby striedať nasledujúce aktivity
 
 ## Koordinácia v rámci skupiny a s cvičiacimi
 
-Github na tento rok: https://github.com/fmfi-genomika/genomika-2025
+Github na tento rok: <https://github.com/fmfi-genomika/genomika-2025>
 
 Informácie by mali byť v **privátnom repozitári** na githube
-* Mala by existovať **prehľadná dokumentácia** k všetkému, čo ste robili (wiki alebo md súbory whodne organizované)
+* Mala by existovať **prehľadná dokumentácia** k všetkému, čo ste robili (wiki alebo md súbory vhodne organizované)
   * Celkový komentár, o čo v danej úlohe ide
   * Kde ste stiahli dáta, ako ste ich spracovali (ideálne postupnosť všetkých relevantných príkazov), poznámky k problematickým krokom
   * Ak výsledky ste dostali, vrátane tabuliek a grafov, ich interpretácia
@@ -110,10 +110,8 @@ Ukážky z minulých rokov:
 
 ## Ǔlohy pre vás
 * Založiť denník
-* Vyplniť dotazník: [https://docs.google.com/forms/d/e/1FAIpQLSeO-uod8pGqWeLoMHBuG1gMdoh5dFdjq-qmg6LfbCbq6ORynA/viewform?usp=sf_link]
+* Vyplniť dotazník: <https://forms.gle/tKd5XKvCc3p8VVXw6>
 * Prijať pozvánku za člena Github projektu
 * Skúsiť sa prihlásiť na server 
 * Rozmyslíme a dohodneme si spôsob organizácie a koordinácie v rámci skupiny, začnete pracovať
 * Pre ďalšiu prednášku je vhodné si z MBI zopakovať úvod do biológie pre informatikov (cvičenie) a prednášku o sekvenovaní a zostavovaní genómov
-
-* 
