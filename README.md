@@ -33,31 +33,31 @@ Spojené s predmetom N-mCBI-119/15 na Prírodovedeckej fakulte (spoločne s magi
 
 Prednášajúci:
  * [Peter Baráth](https://www.sav.sk/?lang=sk&doc=user-org-user&user_no=10065)  (Chemický ústav SAV) 
- * [https://compbio.fmph.uniba.sk/~bbrejova/ Broňa Brejová] (Katedra informatiky FMFI)
- * [https://geneton.sk/tim/budis/ Jaroslav Budiš] (Vedecký park UK)
- * [https://sluzby.fmph.uniba.sk/ludia/kollar53 Richard Kollár] (Katedra aplikovanej matematiky a štatistiky FMFI)
- * [https://orcid.org/0000-0001-6549-4177 Martin Lukačišin] (Katedra genetiky PriFUK)
- * [http://biochemici.sk/index.php/about/employees/24-nebohacovamartina Martina Neboháčová] (Katedra biochémie PriFUK)
- * [http://www.biocenter.sk/jn.html Jozef Nosek] (Katedra biochémie PriFUK) 
- * [https://www.researchgate.net/profile/Ivan_Valent Ivan Valent] (Katedra fyzikálnej a teoretickej chémie PriFUK)
- * [https://compbio.fmph.uniba.sk/~tvinar/ Tomáš Vinař] (Katedra aplikovanej informatiky FMFI)
+ * [Broňa Brejová](https://compbio.fmph.uniba.sk/~bbrejova/) (Katedra informatiky FMFI)
+ * [Jaroslav Budiš](https://geneton.sk/tim/budis/) (Vedecký park UK)
+ * [Richard Kollár](https://sluzby.fmph.uniba.sk/ludia/kollar53) (Katedra aplikovanej matematiky a štatistiky FMFI)
+ * [Martin Lukačišin](https://orcid.org/0000-0001-6549-4177) (Katedra genetiky PriFUK)
+ * [Martina Neboháčová](http://biochemici.sk/index.php/about/employees/24-nebohacovamartina) (Katedra biochémie PriFUK)
+ * [Jozef Nosek](http://www.biocenter.sk/jn.html) (Katedra biochémie PriFUK) 
+ * [Ivan Valent](https://www.researchgate.net/profile/Ivan_Valent) (Katedra fyzikálnej a teoretickej chémie PriFUK)
+ * [Tomáš Vinař](https://compbio.fmph.uniba.sk/~tvinar/) (Katedra aplikovanej informatiky FMFI)
 
 ## Čo si máte odniesť z prednášky?
 * Pochopiť podstatné myšlienky prezentácie / textu (o akej technológii sa bavíme, aký typ dát tam vystupuje, akým spôsobom ich získavame, aký je princíp fungovania)?
 * Nie je podstatné (ani možné) na 100% ovládať terminológiu
-** využívajte znalosti získané v MBI! (je dobré si pred prednáškou zopakovať relevantnú časť)
-** treba sa preniesť nad fakt, že nie každému slovu budete rozumieť
-** je ok sa na pár minút stratiť v detailoch (ale nie je ok sa stratiť na 70% prednášky)
-** treba sa priebežne pýtať rozumné otázky smerujúce k vyjasneniu podstatných vecí
-** (tréning k interdisciplinárnej komunikácii ide oboma smermi ;))
-** Don't panic! Časť prednášok je v knihe, prezentácie sú na Moodli
+  * využívajte znalosti získané v MBI! (je dobré si pred prednáškou zopakovať relevantnú časť)
+  * treba sa preniesť nad fakt, že nie každému slovu budete rozumieť
+  * je ok sa na pár minút stratiť v detailoch (ale nie je ok sa stratiť na 70% prednášky)
+  * treba sa priebežne pýtať rozumné otázky smerujúce k vyjasneniu podstatných vecí
+  * (tréning k interdisciplinárnej komunikácii ide oboma smermi ;))
+  * Don't panic! Časť prednášok je v knihe, prezentácie sú na Moodli
 * Tréning v schopnosti rozlíšiť podstatné od nepodstatného (veľmi dôležitý do budúcnosti)
 * V prípade veľkých problémov sa môžeme dohodnúť na konzultáciách ku konkrétnym otázkam
 
 ## Cvičenia
-* Cvičiaci [http://compbio.fmph.uniba.sk/~bbrejova/ Broňa Brejová] a [http://compbio.fmph.uniba.sk/~tvinar/ Tomáš Vinař]
-* Spracovanie biologických dát, ich vizualizácia na báze softvéru [http://genome-euro.ucsc.edu/ UCSC genome browser]. 
-* Ak budú výsledky dobré, reálna šanca na využitie na Prírodovedeckej fakulte UK aj v medzinárodnej komunite!
+* Cvičiaci [Broňa Brejová](http://compbio.fmph.uniba.sk/~bbrejova/)  a [Tomáš Vinař](http://compbio.fmph.uniba.sk/~tvinar/)
+* Spracovanie biologických dát, ich vizualizácia na báze softvéru [UCSC genome browser](http://genome-euro.ucsc.edu/). 
+* Ak budú výsledky dobré, reálna šanca na využitie na Prírodovedeckej fakulte UK, prípadne aj v medzinárodnej komunite!
 * Väčšinu práce budeme robiť v čase cvičení 2 vyučovacie hodiny týždenne kvôli ľahšej koordinácii. Prípadné neprítomnosti si bude treba nahradiť intenzívnejšou prácou doma.
 
 ## Je toto reálny model niečoho s čím sa môžem stretnúť v praxi?
@@ -76,7 +76,6 @@ Budeme podľa potreby striedať nasledujúce aktivity
 * Rozdelenie práce na nových cieľoch
 * Individuálna alebo skupinová práca, cvičiaci pomôžu riešiť technické problémy / zodpovedať otázky.
 * Môžeme sa porozprávať aj o terminológii potrebnej k ďalšej prednáške
-
 
 ## Koordinácia v rámci skupiny a s cvičiacimi
 
@@ -100,9 +99,9 @@ Každý študent si vytvorí Google doc, do ktorého si bude písať '''denník'
 * Použitie pri hodnotení
 
 Ukážky z minulých rokov:
-* Zdrojový kód na Githube (napr. [https://github.com/fmfi-genomika/genomikaMalGlo])
-* Dokumentácia ako wiki na Githube (napr. [https://github.com/fmfi-genomika/genomikaMalGlo/wiki])
-* Organizácia úloh ako Project na GitHube [https://github.com/fmfi-genomika/genomikaMalGlo/projects/1]
+* Zdrojový kód na Githube <https://github.com/fmfi-genomika/genomikaMalGlo>
+* Dokumentácia ako wiki na Githube <https://github.com/fmfi-genomika/genomikaMalGlo/wiki>
+* Organizácia úloh ako Project na GitHube <https://github.com/fmfi-genomika/genomikaMalGlo/projects/1>
 
 ## Neverejné dáta
 * Budeme pracovať aj so zatiaľ nezverejnenými dátami vyprodukovanými na PriFUK v spolupráci so zahraničím.
